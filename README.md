@@ -4,11 +4,11 @@
 *Information Technologies and Programming Faculty*
 
 ---
-### Hard-skills:
+### `Hard-skills:`
 - OOP (C/C++, Python)
 - OS (Windows)
 ---
-### Soft-skills:
+### `Soft-skills:`
 - Communicative, responsible, punctual
 - Can speak English and Russian
 
