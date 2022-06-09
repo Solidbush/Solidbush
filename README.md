@@ -1,16 +1,17 @@
-### Hi there 👋
+### 👋 Hi there, My name is Alex Gavrilov<br>
 
-<!--
-**Solidbush/Solidbush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍🎓 ITMO University 2nd year student
+*Information Technologies and Programming Faculty*
 
-Here are some ideas to get you started:
+---
+#### Hard-skills:
+- OOP (C/C++, Python)
+- OS (Windows)
+---
+#### Soft-skills:
+- Communicative, responsible, punctual
+- Can speak English and Russian
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+#### My social networks:
+
