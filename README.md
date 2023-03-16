@@ -23,7 +23,7 @@
 ### `Langs`
 ![C++](https://img.shields.io/badge/c++-090909?style=for-the-badge&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python)
-![C#](https://img.shields.io/badge/c#-090909?style=for-the-badge&logo=c%#%)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white "❤️")
 ![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=java)
 
 ### `Tools and other`
