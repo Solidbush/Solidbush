@@ -5,7 +5,8 @@
 
 ---
 ### `Hard-skills:`
-- OOP (C/C++, Python)
+- OOP (C/C++, C#)
+- Python, Java
 - OS (Windows)
 ---
 ### `Soft-skills:`
@@ -22,6 +23,8 @@
 ### `Langs`
 ![C++](https://img.shields.io/badge/c++-090909?style=for-the-badge&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python)
+![C#](https://img.shields.io/badge/c#-090909?style=for-the-badge&logo=c%#%)
+![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=java)
 
 ### `Tools and other`
 ![GIT](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=git)
