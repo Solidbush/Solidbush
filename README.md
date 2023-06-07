@@ -1,6 +1,6 @@
 ### 👋 Hi there, My name is Alex Gavrilov<br>
 
-### 👨‍🎓 ITMO University 2nd year student
+### 👨‍🎓 ITMO University 3nd year student
 *Information Technologies and Programming Faculty*
 
 ---
