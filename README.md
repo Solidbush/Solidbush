@@ -1,12 +1,13 @@
 ### 👋 Hi there, My name is Alex Gavrilov<br>
 
-### 👨‍🎓 ITMO University 3ed year student
+### 👨‍🎓 ITMO University 3rd year student
 *Information Technologies and Programming Faculty*
 
 ---
 ### `Hard-skills:`
-- OOP (C/C++, C#)
-- Python, Java
+- OOP
+- C/C++, C#
+- Python
 - OS (Windows)
 - SQL (MS SQL)
 ---
