@@ -4,8 +4,6 @@
 *Information Technologies and Programming Faculty*
 
 ---
-### `Hard-skills:`
-- OOP
 - C/C++, C#
 - Python
 - OS (Windows)
