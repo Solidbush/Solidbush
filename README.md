@@ -8,6 +8,7 @@
 - OOP (C/C++, C#)
 - Python, Java
 - OS (Windows)
+- SQL (MS SQL)
 ---
 ### `Soft-skills:`
 - Communicative, responsible, punctual
